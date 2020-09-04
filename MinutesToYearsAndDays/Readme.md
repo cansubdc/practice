@@ -5,7 +5,8 @@ The method of return type is "void" and it calculate years and days from the min
 
 **EXAMPLE INPUT/OUTPUT**
 
-  `minute.printYearsAndDays(449280);` should print "449280 min = 0 y and 312 d"
+ `minute.printYearsAndDays(449280);` should print "449280 min = 0 y and 312 d"
+  
  `printYearsAndDays(564480);` should print "564480 min = 1 y and 27 d"
  
 **TIPS:**
